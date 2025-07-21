@@ -69,10 +69,10 @@ Detailed description of the methodology, results, and performance is available i
 ## How it Looks
 
 ![Screenshot 1](./Screenshots_of_Web-app/Screenshot2025-07-21185951.png)
-![Screenshot 2](Screenshots_of_Web-app/Screenshot2025-07-21190021.png)
-![Screenshot 3](Screenshots_of_Web-app/Screenshot2025-07-21190102.png)
-![Screenshot 4](Screenshots_of_Web-app/Screenshot2025-07-21190132.png)
-![Screenshot 5](Screenshots_of_Web-app/Screenshot2025-07-21190154.png)
+![Screenshot 2](./Screenshots_of_Web-app/Screenshot2025-07-21190021.png)
+![Screenshot 3](./Screenshots_of_Web-app/Screenshot2025-07-21190102.png)
+![Screenshot 4](./Screenshots_of_Web-app/Screenshot2025-07-21190132.png)
+![Screenshot 5](./Screenshots_of_Web-app/Screenshot2025-07-21190154.png)
 
 ---
 
