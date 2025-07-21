@@ -68,7 +68,7 @@ Detailed description of the methodology, results, and performance is available i
 
 ## How it Looks
 
-[Click here to watch the demo](./demo_video.mp4)
+[Click here to watch](Screenshots_of_Web-app)
 
 ---
 
