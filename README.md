@@ -7,8 +7,8 @@ This is a **web-based machine learning project** that predicts stock prices usin
 ## 👨‍💻 Author
 
 **Gautam Yadav**
-📧 gautamyadav1406@gmail.com
-📅 Project Date: July 21, 2025
+- 📧 gautamyadav1406@gmail.com
+- 📅 Project Date: July 21, 2025
 
 ---
 
