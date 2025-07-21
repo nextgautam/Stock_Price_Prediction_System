@@ -66,7 +66,7 @@ Detailed description of the methodology, results, and performance is available i
 
 ---
 
-## How it Works
+## How it Looks
 
 [Click here to watch the demo](./demo_video.mp4)
 
