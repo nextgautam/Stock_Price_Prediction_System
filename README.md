@@ -68,7 +68,11 @@ Detailed description of the methodology, results, and performance is available i
 
 ## How it Looks
 
-[Click here to watch](Screenshots_of_Web-app)
+![Screenshot 1](./screenshots/image1.png)
+![Screenshot 2](./screenshots/image2.png)
+![Screenshot 3](./screenshots/image3.png)
+![Screenshot 4](./screenshots/image4.png)
+![Screenshot 5](./screenshots/image5.png)
 
 ---
 
