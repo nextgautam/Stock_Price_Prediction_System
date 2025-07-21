@@ -68,7 +68,7 @@ Detailed description of the methodology, results, and performance is available i
 
 ## How it Looks
 
-![Screenshot 1](./Screenshots_of_Web-app/Screenshot2025-07-21185951.png)
+![Screenshot 1](https://github.com/nextgautam/Stock_Price_Prediction_System/blob/48910f6c7a75ec80f7614852c318051936a64fa1/Screenshots_of_Web-app/Screenshot%202025-07-21%20185951.png)
 ![Screenshot 2](./Screenshots_of_Web-app/Screenshot2025-07-21190021.png)
 ![Screenshot 3](./Screenshots_of_Web-app/Screenshot2025-07-21190102.png)
 ![Screenshot 4](./Screenshots_of_Web-app/Screenshot2025-07-21190132.png)
